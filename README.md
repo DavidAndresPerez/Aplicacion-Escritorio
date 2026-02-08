@@ -2,6 +2,10 @@
 
 Proyecto de minijuegos desarrollado en Java, ofrece al usuario la posibilidad de poner a prueba sus capacidades en diferentes retos
 
+<p align="center">
+  <img src="escritorio1.png" width="800" alt="Pantalla Principal">
+</p>
+
 ## Juegos Incluidos
 
 	### Juego de Memoria (Tarjetas)
@@ -19,6 +23,9 @@ Proyecto de minijuegos desarrollado en Java, ofrece al usuario la posibilidad de
 		* Descripción: Repite la secuencia de colores que genera la aplicación.
 		* Mecánica: Lógica de arrays dinámicos y reproducción de secuencias mediante hilos sincronizados.
 
+<p align="center">
+  <img src="escritorio2.png" width="800" alt="Detalle del juego">
+</p>
 
 ## Tecnologías Utilizadas
 
@@ -29,7 +36,8 @@ Proyecto de minijuegos desarrollado en Java, ofrece al usuario la posibilidad de
 
 ## Instalación y Ejecución
 	
-	* Ejecutar el instalador adjuntado o bien desde NetBeans seleccionando la clase "_Login" y dar al play.
+*  Ejecutable: [Descargar Instalador (.exe)](instalador/Instalador_Minijuegos.exe)
+*  Código fuente: El código completo se encuentra comprimido en [src/minijuegos.zip](src/minijuegos.zip)
 
 ## Contribuidores
 	
